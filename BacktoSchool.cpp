@@ -61,7 +61,7 @@ int main() {
         cout << "As we grow and evolve, our futures unfold," << endl;
         cout << "In the world beyond, we'll be bold and strong." << endl;
     } else {
-        cout << "No worries, wish you a splendid return to class!" << endl;
+        cout << "Maybe another day. Wish you a splendid return to the classroom!" << endl;
     }
     return 0;
 }
